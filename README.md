@@ -44,7 +44,7 @@ Create a `.env` file in the root directory with the following content:
 ```
 VITE_SERVER_IP = 'http://127.0.0.1:3000'
 ```
-Backend-repo Link: `https://github.com/shashi-sah2003/Coinnect-backend`
+[Backend-repo Link](https://github.com/shashi-sah2003/Coinnect-backend)
 
 4. Run the development server
 ```bash
@@ -71,7 +71,7 @@ The application uses token-based authentication. For the demo, any email and pas
 
 This project is set up to run locally and connect to a backend API. Make sure to:
 
-1. Set up the backend server `https://github.com/shashi-sah2003/Coinnect-backend`
+1. [Set up the backend server](https://github.com/shashi-sah2003/Coinnect-backend)
 2. Configure the correct server URL in the `.env` file
 3. Start the frontend development server
 
